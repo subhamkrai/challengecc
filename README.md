@@ -1,10 +1,14 @@
 # challengecc
 
 
-# Libary used
+## Libary used
 
- requests
- bs4(BeautifulSoup)
- xlsxwriter
+```python
+
+import requests
+from bs4 import BeautifulSoup
+import xlsxwriter
+```
  
-# Function: To scrap data from(book list, movie list) different websites for educational purpose. 
+## Function: 
+To scrap data from(book list, movie list) different websites for educational purpose. 
